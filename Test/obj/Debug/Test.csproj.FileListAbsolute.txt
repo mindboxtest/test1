@@ -1,0 +1,11 @@
+﻿c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\Test.exe.config
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\Test.exe
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\Test.pdb
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\obj\Debug\Test.csprojAssemblyReference.cache
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\obj\Debug\Test.exe
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\obj\Debug\Test.pdb
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\CalcArea.dll
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\CalcArea.pdb
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\bin\Debug\CalcArea.dll.config
+c:\Users\Андрей\documents\visual studio 2017\Projects\CalcArea\Test\obj\Debug\Test.csproj.CopyComplete

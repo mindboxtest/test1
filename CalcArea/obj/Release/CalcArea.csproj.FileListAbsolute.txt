@@ -1,0 +1,6 @@
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\bin\Release\CalcArea.dll.config
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\bin\Release\CalcArea.dll
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\bin\Release\CalcArea.pdb
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\obj\Release\CalcArea.csproj.CoreCompileInputs.cache
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\obj\Release\CalcArea.dll
+c:\users\андрей\documents\visual studio 2017\Projects\CalcArea\CalcArea\obj\Release\CalcArea.pdb
